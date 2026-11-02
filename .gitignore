@@ -1,0 +1,15 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+
+# Local paper account and secrets
+*.db
+.env
